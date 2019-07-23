@@ -5,7 +5,7 @@
                 :class="isCollapse ? 'app-side-collapsed' : 'app-side-expanded'">
         <div class="app-side-logo">
           <img src="@/assets/logo.png"
-               :width="isCollapse ? '60' : '60'"
+               :width="isCollapse ? '60' : '160'"
                height="60"/>
         </div>
         <div>
